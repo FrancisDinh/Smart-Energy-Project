@@ -1,5 +1,3 @@
-
-# Report
 # READ ME
 
 This project was submitted for the Fachpraktikum at IAAS Uni Stuttgart.
