@@ -7,6 +7,7 @@ Title: Smart Energy - Demand and Response
 Author: Muralikrishna Thulasi Raman and Tung Dinh
 
 For more information, please refer to the [report]([https://github.com/FrancisDinh/Smart-Energy-Project/blob/master/Final%20Report.pdf](https://github.com/FrancisDinh/Smart-Energy-Project/blob/master/Final%20Report.pdf))
+
 ## Summary:
 
 
@@ -22,6 +23,7 @@ Get building’s energy consumption for both controllable and non-controllable d
 
 ### Pricing Unit
 Providing dynamic prices from  [entsoe]([https://transparency.entsoe.eu/transmission-domain/r2/dayAheadPrices/show?name=&defaultValue=false&viewType=TABLE&areaType=BZN&atch=false&dateTime.dateTime=29.06.2019+00:00|CET|DAY&biddingZone.values=CTY|10Y1001A1001A83F!BZN|10Y1001A1001A82H&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2)](https://transparency.entsoe.eu/transmission-domain/r2/dayAheadPrices/show?name=&defaultValue=false&viewType=TABLE&areaType=BZN&atch=false&dateTime.dateTime=29.06.2019+00:00|CET|DAY&biddingZone.values=CTY|10Y1001A1001A83F!BZN|10Y1001A1001A82H&dateTime.timezone=CET_CEST&dateTime.timezone_input=CET+(UTC+1)+/+CEST+(UTC+2)))
+
 • For current hour  
 • For current day’s 24 hours
 • For next day’s 24 hours  
