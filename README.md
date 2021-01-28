@@ -35,13 +35,5 @@ Use data from Supply Service, Demand Service and Pricing  Unit to optimize the s
 ### User Interface
 Use NUXT JS and Vuetify  to obtain information from  user and also to display information from Supply Service, Demand Service,  Pricing Unit and Optimization unit
 
-### To be developed
-
- - User's dynamic location: this project currently assumes user is at university  of Stuttgart, so that all the information processed within are from location  Stuttgart, Germany.
- - Dynamic number of buildings
- - More options for optimization, ex: use battery to buy energy from macro grid at low price and sell at high price, not just store generated energy.
- - Separate Interfaces to stakeholers and customers
- - Should have an app.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
